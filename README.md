@@ -1,4 +1,4 @@
-# FocusPlsNoBadges
+# FocusNoBadges
 
 > A modernized macOS utility that makes Focus modes actually hide notification badges across applications, including apps whose badge behavior macOS does not otherwise expose as a convenient public setting.
 
@@ -6,7 +6,7 @@
 
 ## What this project does
 
-`FocusPlsNoBadges` is a small menu-bar-style macOS utility based on an older 2022 project/idea. Its job is simple:
+`FocusNoBadges` is a small menu-bar-style macOS utility based on an older 2022 project/idea. Its job is simple:
 
 * watch the currently active macOS Focus configuration;
 * determine whether that Focus is configured to hide application badges;
